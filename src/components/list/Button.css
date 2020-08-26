@@ -1,0 +1,10 @@
+button {
+  margin-left: 15px;
+  width: 110px;
+  background-color: blue;
+  color: white;
+  border: none;
+}
+button:active {
+  background-color: lightblue;
+}
